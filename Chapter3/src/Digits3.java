@@ -20,7 +20,7 @@ public class Digits3
 	{
 		Scanner input = new Scanner (System.in);
 		
-	System.out.print("Enter a three digit number:    ");
+	System.out.print("Enter a three digit number:    ");      Line 23 seems to be not aligned to the right as the rest are
 		
 		int number = input.nextInt();           //the three-digit number 
 		
